@@ -28,6 +28,7 @@ Bitwise operators
 Precedence and Associativity of Operators in Python  
 
 # [Python Escape Characters](https://www.w3schools.com/python/python_strings_escape.asp)
+An escape character is a backslash \ followed by the character you want to insert  
 
 # [Python Strings](https://www.w3schools.com/python/python_strings.asp)
 Slicing Strings  

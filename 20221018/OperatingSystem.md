@@ -1,6 +1,6 @@
 ## Operating System(OS)
 - user mode vs kernel mode
-- [kernel vs shell] (https://www.geeksforgeeks.org/difference-between-shell-and-kernel/)
+- [kernel vs shell](https://www.geeksforgeeks.org/difference-between-shell-and-kernel/)
   - 1. Shell :
 A shell is an environment or a special user program which provide an interface to user to use operating system services. It executes programs based on the input provided by the user.
 

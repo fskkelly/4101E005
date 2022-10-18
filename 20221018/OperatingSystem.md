@@ -10,6 +10,7 @@
 ### linux
 - linux kernal
 - linux shell
+  - bash shell 
 
 ### Windows
 - Windows shell

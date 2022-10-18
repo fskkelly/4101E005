@@ -8,9 +8,10 @@
   - Kernel is the heart and core of an Operating System that manages operations of computer and hardware. It acts as a bridge between the user and the resources of the system by accessing various computer resources like the CPU, I/O devices and other resources.
  
 ### linux
-- linux kernal
+- [linux kernel](https://zh.m.wikipedia.org/zh-tw/Linux%E5%86%85%E6%A0%B8)
 - linux shell
-  - bash shell 
+  - [BASH shell](https://linux.vbird.org/linux_basic/centos7/0320bash.php)
+  - [Shell Script](https://linux.vbird.org/linux_basic/centos7/0340bashshell-scripts.php)
 
 ### Windows
 - Windows shell

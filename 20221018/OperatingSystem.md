@@ -23,7 +23,7 @@
     - /?
     - ping
     - netstat -ano
-    - taskkill /PID 18354 /F (kill notepad.exe)
+    - taskkill /PID ??? /F
     - cd
     - dir
     - START

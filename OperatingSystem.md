@@ -23,7 +23,7 @@
     - /?
     - ping
     - netstat -ano
-    - taskkill /PID ??? /F
+    - taskkill /PID /F
     - cd
     - dir
     - START
